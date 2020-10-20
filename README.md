@@ -26,7 +26,7 @@ Users last searched city forecast will be presented when weather dashboard is op
 
 The following image demonstrates the application functionality:
 
-<img src="Images/weatherScreenshot.PNG" alt="weatherDashboardpic">
+<img src="Images/weatherDisplaypic.PNG" alt="weatherDashboardpic">
 
 Link for application: https://mpeyre93.github.io/weatherDashboard/
 
