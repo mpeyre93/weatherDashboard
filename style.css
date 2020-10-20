@@ -1,0 +1,20 @@
+  /*Weather Dashboard font size*/
+.navbar-brand {
+    font-size: 40px;
+}
+
+/*font style for Search for a city:*/
+.search-header {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/*current searched city font size*/
+.city-name {
+    font-size: 40px;
+}
+
+/*5-day forecast date font size*/
+.forecast-date {
+    font-size: 20px;
+}
