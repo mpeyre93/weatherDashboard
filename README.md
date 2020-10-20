@@ -28,7 +28,7 @@ The following image demonstrates the application functionality:
 
 <img src="Images/weatherScreenshot.PNG" alt="weatherDashboardpic">
 
-Link for application: 
+Link for application: https://mpeyre93.github.io/weatherDashboard/
 
 
 
