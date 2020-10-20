@@ -28,6 +28,8 @@ The following image demonstrates the application functionality:
 
 <img src="Images/weatherDisplaypic.PNG" alt="weatherDashboardpic">
 
+![weatherDashboardpic](/Images/weatherDisplaypic.png?raw=true) 
+
 Link for application: https://mpeyre93.github.io/weatherDashboard/
 
 
